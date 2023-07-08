@@ -8,6 +8,8 @@
 	<name>spring3 mvc maven</name>
 
 	<properties>
+		<sonar.host.url>http://34.125.172.251:9000/</sonar.host.url>
+		<sonar.login>squ_34e8c333441cb41691e8eb4ee93fe4a52bff89ca</sonar.login>
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<jdk.version>1.7</jdk.version>
